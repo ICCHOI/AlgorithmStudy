@@ -4,11 +4,15 @@ Algorithm Study - Programmers-Level1
 
 > 꾸준한 알고리즘 공부를 위해서 프로그래머스에서 LEVEL 1 알고리즘 문제를 푼 코드입니다.
 
-## 소개
+
+
+## 개요
 
 |언어| 진행한 곳 |
 |:---:|:---:|
 | Java | 프로그래머스 (https://programmers.co.kr/) |
+
+
 
 ## 학습 진행 방향
 
