@@ -1,4 +1,5 @@
-//입력받은 정수를 큰 수 부터 내림차순으로 바꾸시오.
+// 정수 내림차순으로 배치하기 https://programmers.co.kr/learn/courses/30/lessons/12933?language=java
+// 입력받은 정수를 큰 수 부터 내림차순으로 바꾸시오.
 
 import java.util.Arrays;
 
