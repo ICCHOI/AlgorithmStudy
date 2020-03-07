@@ -1,4 +1,22 @@
-Programmers-Level1
+Algorithm Study - Programmers-Level1
 ==================
 
-#### <a href="https://programmers.co.kr/skill_checks"> Programmers</a>에서 Java로 진행한 알고리즘 Leve 1 문제를 푼 코드입니다.
+> 꾸준한 알고리즘 공부를 위해서 프로그래머스에서 LEVEL 1 알고리즘 문제를 푼 코드입니다.
+
+<br>
+
+## 개요
+
+|언어| 진행한 곳 |
+|:---:|:---:|
+| Java | <a href=https://programmers.co.kr/> 프로그래머스 </a> |
+
+<br>
+
+## 학습 진행 방향
+
+* 모든 문제를 시간 안에 풀어보는 것을 목표로 합니다. (문제당 20분)
+
+* 그 후 더 나은 알고리즘을 찾아 문제를 푸는데 걸리는 시간을 최적화 합니다.
+
+* 코드의 가독성을 신경쓰며 코딩합니다.
