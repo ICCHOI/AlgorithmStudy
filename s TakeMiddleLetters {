@@ -1,0 +1,135 @@
+[33mcommit 4cf4434e0927ce045d6f9a8ce9084a4ad33b764b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ICCHOI <cicblack@ks.ac.kr>
+Date:   Sun Mar 8 00:54:29 2020 +0900
+
+    Solve 7 Problems
+
+[33mcommit 60d84280a56478de6b1dd500575260b81f040116[m
+Merge: d6bdb1f 905c5e1
+Author: ICCHOI <cicblack@ks.ac.kr>
+Date:   Sat Mar 7 11:43:40 2020 +0900
+
+    Pull Directory to local
+    
+    Merge branch 'master' of https://github.com/ICCHOI/Programmers-level1
+
+[33mcommit d6bdb1fdf1aea6abdb83b3fdf8031d9daa476cd8[m
+Author: ICCHOI <cicblack@ks.ac.kr>
+Date:   Sat Mar 7 10:44:43 2020 +0900
+
+    Solve 6 Problems
+
+[33mcommit 905c5e177ac791c5146d9cf8cd52e109f8d1c656[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Fri Mar 6 13:39:31 2020 +0900
+
+    Update README.md
+
+[33mcommit f245d9b820b6c4022cd9643c3a5e381b40eedd16[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Fri Mar 6 13:38:31 2020 +0900
+
+    Update README.md
+
+[33mcommit 55cf15063865d4b29655337ce0329c476c9bd158[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Fri Mar 6 13:38:20 2020 +0900
+
+    Update README.md
+
+[33mcommit da74615784a852dafa2fcb7bff93e062125f3dc7[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Fri Mar 6 13:38:01 2020 +0900
+
+    Update README.md
+
+[33mcommit bc89529c46cc2281c76c0970e486c6701dc1261a[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Fri Mar 6 13:34:36 2020 +0900
+
+    Update README.md
+
+[33mcommit e2d46634429f56216fcef08d3eaa12b24c391466[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Fri Mar 6 13:33:49 2020 +0900
+
+    Update README.md
+    
+    학습 진행방향 및 개요 수정
+
+[33mcommit 48c89d48dc672c23b4baed9da925e41de9123cd2[m
+Author: ICCHOI <cicblack@ks.ac.kr>
+Date:   Fri Mar 6 00:24:30 2020 +0900
+
+    Solved 5 Problems
+
+[33mcommit d15cb70b21d8511739bb82c9d928a956a85a61f4[m
+Merge: 09fd1d2 921223b
+Author: ICCHOI <cicblack@ks.ac.kr>
+Date:   Thu Mar 5 16:43:05 2020 +0900
+
+    Clear Programmers Level 1 Algorithm
+    
+    Merge branch 'master' of https://github.com/ICCHOI/Programmers-level1
+
+[33mcommit 09fd1d2e35ef4888a1b355c4961c25b7c28024a8[m
+Author: ICCHOI <cicblack@ks.ac.kr>
+Date:   Thu Mar 5 16:26:18 2020 +0900
+
+    Clear Level-1
+
+[33mcommit 921223bef35572303bbd76ff94c29fa5a1c2dc78[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:06:30 2020 +0900
+
+    Update README.md
+
+[33mcommit 4cb39875af382f72708018f9445fff84016fee79[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:06:17 2020 +0900
+
+    Update README.md
+
+[33mcommit 3612efb4c4cb0185c581a7cac56dec9134c6dd9b[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:05:34 2020 +0900
+
+    Update README.md
+
+[33mcommit 16b2e09f227872574ad558c9ad66ffb20b73df31[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:05:24 2020 +0900
+
+    Update README.md
+
+[33mcommit 8091fb8fe7cfd076fcbdea7325ef1eb322476abb[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:05:17 2020 +0900
+
+    Update README.md
+
+[33mcommit f4ef2adb0df9838d723359d0707b8a83c4c199e8[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:05:05 2020 +0900
+
+    Update README.md
+
+[33mcommit 3a727996d9c57330fb1d4eba5ca30e921a3c6400[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:04:56 2020 +0900
+
+    Update README.md
+
+[33mcommit 7cca9ae2bba316d2537e8b103f1f433fac9b4735[m
+Author: Inchang Choi <48702370+ICCHOI@users.noreply.github.com>
+Date:   Thu Mar 5 00:04:11 2020 +0900
+
+    Create README.md
+    
+    Solve Two
+
+[33mcommit 50ca4795dab4870fa28262d3c79969e593823dfc[m
+Author: ICCHOI <cicblack@ks.ac.kr>
+Date:   Wed Mar 4 23:39:00 2020 +0900
+
+    First algorithm commit

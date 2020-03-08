@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="Solved 5 Problems">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OddAndEvenNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/level1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/level1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/level1/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/level1/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/level1/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/level1/StringToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/level1/StringToInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Descending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowerToUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowerToUpper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TakeMiddleLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TakeMiddleLetters.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,14 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main6">
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main2" />
-      <module name="level1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main8">
     <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main4" />
       <module name="level1" />
@@ -86,8 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Maint" />
+    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main7" />
+      <module name="level1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main8" />
       <module name="level1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main8" />
+        <item itemvalue="Application.Main7" />
         <item itemvalue="Application.Main6" />
         <item itemvalue="Application.Main4" />
         <item itemvalue="Application.Main5" />
-        <item itemvalue="Application.Maint" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +109,9 @@
       <updated>1583327429575</updated>
       <workItem from="1583327432460" duration="12626000" />
       <workItem from="1583424699699" duration="1204000" />
-      <workItem from="1583544097941" duration="1236000" />
+      <workItem from="1583544097941" duration="1916000" />
+      <workItem from="1583595665016" duration="875000" />
+      <workItem from="1583640135330" duration="1067000" />
     </task>
     <servers />
   </component>
