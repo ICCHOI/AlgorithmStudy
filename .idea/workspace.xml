@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="Solved 5 Problems">
-      <change afterPath="$PROJECT_DIR$/src/OddAndEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumBetweenTwoNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddAndEvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddAndEvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringToInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TakeMiddleLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TakeMiddleLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Year2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year2016.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +53,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main8">
+  <component name="RunManager" selected="Application.Main9">
     <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main4" />
-      <module name="level1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main5" />
       <module name="level1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,13 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main9" />
+      <module name="level1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main9" />
         <item itemvalue="Application.Main8" />
         <item itemvalue="Application.Main7" />
         <item itemvalue="Application.Main6" />
         <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.Main5" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +114,7 @@
       <workItem from="1583544097941" duration="1916000" />
       <workItem from="1583595665016" duration="875000" />
       <workItem from="1583640135330" duration="1067000" />
+      <workItem from="1583696471509" duration="1128000" />
     </task>
     <servers />
   </component>
