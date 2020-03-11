@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="Solved 5 Problems">
-      <change afterPath="$PROJECT_DIR$/src/CountPandY.java" afterDir="false" />
+    <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Subak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main10">
+  <component name="RunManager" selected="Application.Main11">
     <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main10" />
       <module name="level1" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main6" />
+    <configuration name="Main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main11" />
       <module name="level1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main11" />
         <item itemvalue="Application.Main10" />
         <item itemvalue="Application.Main9" />
         <item itemvalue="Application.Main8" />
         <item itemvalue="Application.Main7" />
-        <item itemvalue="Application.Main6" />
       </list>
     </recent_temporary>
   </component>
@@ -113,8 +113,17 @@
       <workItem from="1583696471509" duration="1362000" />
       <workItem from="1583730178410" duration="84000" />
       <workItem from="1583776200433" duration="1433000" />
-      <workItem from="1583932663888" duration="1281000" />
+      <workItem from="1583932663888" duration="1351000" />
+      <workItem from="1583947180308" duration="514000" />
     </task>
+    <task id="LOCAL-00001" summary="Solved 10 Problems">
+      <created>1583933968926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583933968926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solved 5 Problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved 5 Problems" />
+    <MESSAGE value="Solved 10 Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved 10 Problems" />
   </component>
 </project>
