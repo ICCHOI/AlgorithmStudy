@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="Solved 5 Problems">
+      <change afterPath="$PROJECT_DIR$/src/CountPandY.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlphabetDescend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlphabetDescend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowerToUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowerToUpper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProtectPhoneNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProtectPhoneNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Year2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year2016.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +49,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main9">
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main4" />
+  <component name="RunManager" selected="Application.Main10">
+    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main10" />
       <module name="level1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main10" />
         <item itemvalue="Application.Main9" />
         <item itemvalue="Application.Main8" />
         <item itemvalue="Application.Main7" />
         <item itemvalue="Application.Main6" />
-        <item itemvalue="Application.Main4" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +112,8 @@
       <workItem from="1583640135330" duration="1067000" />
       <workItem from="1583696471509" duration="1362000" />
       <workItem from="1583730178410" duration="84000" />
-      <workItem from="1583776200433" duration="1324000" />
+      <workItem from="1583776200433" duration="1433000" />
+      <workItem from="1583932663888" duration="1281000" />
     </task>
     <servers />
   </component>
