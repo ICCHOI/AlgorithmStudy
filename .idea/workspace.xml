@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Subak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AverageFind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main11">
+  <component name="RunManager" selected="Application.Main13">
     <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main10" />
       <module name="level1" />
@@ -64,15 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main7" />
+    <configuration name="Main12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main12" />
       <module name="level1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main8" />
+    <configuration name="Main13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main13" />
       <module name="level1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main13" />
+        <item itemvalue="Application.Main12" />
         <item itemvalue="Application.Main11" />
         <item itemvalue="Application.Main10" />
         <item itemvalue="Application.Main9" />
-        <item itemvalue="Application.Main8" />
-        <item itemvalue="Application.Main7" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +114,9 @@
       <workItem from="1583730178410" duration="84000" />
       <workItem from="1583776200433" duration="1433000" />
       <workItem from="1583932663888" duration="1351000" />
-      <workItem from="1583947180308" duration="514000" />
+      <workItem from="1583947180308" duration="2174000" />
+      <workItem from="1584115130201" duration="598000" />
+      <workItem from="1584187235603" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="Solved 10 Problems">
       <created>1583933968926</created>
