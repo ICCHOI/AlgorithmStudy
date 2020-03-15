@@ -25,9 +25,9 @@ class AlphabetDescend {
     }
 }
 
-class Main5{
-    public static void main(String[] args) {
-        AlphabetDescend solution = new AlphabetDescend();
-        System.out.println(solution.solution("Zbcdefg"));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        AlphabetDescend solution = new AlphabetDescend();
+//        System.out.println(solution.solution("Zbcdefg"));
+//    }
+//}

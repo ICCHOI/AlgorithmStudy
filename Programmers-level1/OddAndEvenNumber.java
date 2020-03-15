@@ -13,9 +13,9 @@ class OddAndEvenNumber {
     }
 }
 
-class Main8 {
-    public static void main(String[] args) {
-        OddAndEvenNumber number = new OddAndEvenNumber();
-        System.out.println(number.solution(-1));
-    }
-}
+//class Main {
+//    public static void main(String[] args) {
+//        OddAndEvenNumber number = new OddAndEvenNumber();
+//        System.out.println(number.solution(-1));
+//    }
+//}

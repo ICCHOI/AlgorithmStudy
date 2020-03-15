@@ -14,11 +14,11 @@ class FindMrKim {
     }
 }
 
-class Main12{
-    public static void main(String[] args) {
-        FindMrKim kim = new FindMrKim();
-        String[] seoul = {"Jane", "Choi", "Kim", "Park"};
-
-        System.out.println(kim.solution(seoul));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        FindMrKim kim = new FindMrKim();
+//        String[] seoul = {"Jane", "Choi", "Kim", "Park"};
+//
+//        System.out.println(kim.solution(seoul));
+//    }
+//}

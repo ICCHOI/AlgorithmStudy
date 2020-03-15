@@ -31,10 +31,10 @@ class LowerToUpper {
     }
 }
 
-class Main3 {
-    public static void main(String[] args) {
-        LowerToUpper solve = new LowerToUpper();
-        String str ="try hello world";
-        System.out.println(solve.solution(str));
-    }
-}
+//class Main {
+//    public static void main(String[] args) {
+//        LowerToUpper solve = new LowerToUpper();
+//        String str ="try hello world";
+//        System.out.println(solve.solution(str));
+//    }
+//}

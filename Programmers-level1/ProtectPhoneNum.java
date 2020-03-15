@@ -17,9 +17,9 @@ class ProtectPhoneNum {
     }
 }
 
-class Main4{
-    public static void main(String[] args) {
-        ProtectPhoneNum solution2 = new ProtectPhoneNum();
-        System.out.println(solution2.solution("027778888"));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        ProtectPhoneNum solution2 = new ProtectPhoneNum();
+//        System.out.println(solution2.solution("027778888"));
+//    }
+//}

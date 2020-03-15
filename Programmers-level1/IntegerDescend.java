@@ -29,10 +29,10 @@ class IntegerDescend {
     }
 }
 
-class Main2{
-    public static void main(String[] args) {
-        IntegerDescend solve = new IntegerDescend();
-        long n = 118372;
-        System.out.println(solve.solution(n));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        IntegerDescend solve = new IntegerDescend();
+//        long n = 118372;
+//        System.out.println(solve.solution(n));
+//    }
+//}

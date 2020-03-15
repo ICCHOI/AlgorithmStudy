@@ -14,9 +14,9 @@ public class SumBetweenTwoNum {
     }
 }
 
-class Main9{
-    public static void main(String[] args) {
-        SumBetweenTwoNum num = new SumBetweenTwoNum();
-        System.out.println(num.solution(5,3));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        SumBetweenTwoNum num = new SumBetweenTwoNum();
+//        System.out.println(num.solution(5,3));
+//    }
+//}

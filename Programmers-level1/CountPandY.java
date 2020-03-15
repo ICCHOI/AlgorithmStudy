@@ -26,9 +26,9 @@ class CountPandY {
     }
 }
 
-class Main10{
-    public static void main(String[] args) {
-        CountPandY pAndY = new CountPandY();
-        System.out.println(pAndY.solution("Pyy"));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        CountPandY pAndY = new CountPandY();
+//        System.out.println(pAndY.solution("Pyy"));
+//    }
+//}

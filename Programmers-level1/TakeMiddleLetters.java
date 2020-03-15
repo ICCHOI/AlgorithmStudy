@@ -15,9 +15,9 @@ public class TakeMiddleLetters {
     }
 }
 
-class Main7{
-    public static void main(String[] args) {
-        TakeMiddleLetters letters = new TakeMiddleLetters();
-        System.out.println(letters.solution("qwer"));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        TakeMiddleLetters letters = new TakeMiddleLetters();
+//        System.out.println(letters.solution("qwer"));
+//    }
+//}

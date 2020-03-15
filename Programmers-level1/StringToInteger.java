@@ -19,11 +19,11 @@ class StringToInteger {
     }
 }
 
-class Main{
-    public static void main(String[] args) {
-        StringToInteger soul = new StringToInteger();
-        String s = "-1";
-        System.out.println(StringToInteger.solution(s));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        StringToInteger soul = new StringToInteger();
+//        String s = "-1";
+//        System.out.println(StringToInteger.solution(s));
+//    }
+//}
 

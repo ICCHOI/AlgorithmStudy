@@ -14,9 +14,9 @@ class StringHandling {
     }
 }
 
-class Main14{
-    public static void main(String[] args) {
-        StringHandling handling = new StringHandling();
-        System.out.println(handling.solution("1234"));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        StringHandling handling = new StringHandling();
+//        System.out.println(handling.solution("1234"));
+//    }
+//}

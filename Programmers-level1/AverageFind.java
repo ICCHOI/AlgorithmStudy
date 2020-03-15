@@ -11,12 +11,12 @@ class AverageFind {
     }
 }
 
-class Main13{
-    public static void main(String[] args) {
-        AverageFind find = new AverageFind();
-        int[] arr = {1,2,3,4};
-
-        System.out.println(find.solution(arr));
-
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        AverageFind find = new AverageFind();
+//        int[] arr = {1,2,3,4};
+//
+//        System.out.println(find.solution(arr));
+//
+//    }
+//}

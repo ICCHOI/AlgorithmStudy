@@ -16,9 +16,9 @@ class Subak {
     }
 }
 
-class Main11{
-    public static void main(String[] args) {
-        Subak subak = new Subak();
-        System.out.println(subak.solution(3));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        Subak subak = new Subak();
+//        System.out.println(subak.solution(3));
+//    }
+//}

@@ -48,9 +48,9 @@ class MonthToDay {
     }
 }
 
-class Main6 {
-    public static void main(String[] args) {
-        Year2016 year = new Year2016();
-        System.out.println(year.solution(2,45));
-    }
-}
+//class Main {
+//    public static void main(String[] args) {
+//        Year2016 year = new Year2016();
+//        System.out.println(year.solution(2,45));
+//    }
+//}
