@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdownpad-github.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,6 +122,8 @@
       <workItem from="1584187235603" duration="2186000" />
       <workItem from="1584253836171" duration="1389000" />
       <workItem from="1584258443197" duration="619000" />
+      <workItem from="1584264016122" duration="100000" />
+      <workItem from="1584264133021" duration="141000" />
     </task>
     <task id="LOCAL-00001" summary="Solved 10 Problems">
       <created>1583933968926</created>
