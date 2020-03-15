@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc5f0c9-7acd-48c5-9d38-c02505453da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AverageFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../level2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main13">
+  <component name="RunManager" selected="Application.Main14">
     <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main10" />
       <module name="level1" />
@@ -78,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main9" />
+    <configuration name="Main14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main14" />
       <module name="level1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main14" />
         <item itemvalue="Application.Main13" />
         <item itemvalue="Application.Main12" />
         <item itemvalue="Application.Main11" />
         <item itemvalue="Application.Main10" />
-        <item itemvalue="Application.Main9" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +117,9 @@
       <workItem from="1583932663888" duration="1351000" />
       <workItem from="1583947180308" duration="2174000" />
       <workItem from="1584115130201" duration="598000" />
-      <workItem from="1584187235603" duration="319000" />
+      <workItem from="1584187235603" duration="2186000" />
+      <workItem from="1584253836171" duration="1389000" />
+      <workItem from="1584258443197" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="Solved 10 Problems">
       <created>1583933968926</created>
@@ -125,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583933968926</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Solved 13 Problems">
+      <created>1584187570174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584187570175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +157,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solved 5 Problems" />
     <MESSAGE value="Solved 10 Problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved 10 Problems" />
+    <MESSAGE value="Solved 13 Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved 13 Problems" />
   </component>
 </project>
