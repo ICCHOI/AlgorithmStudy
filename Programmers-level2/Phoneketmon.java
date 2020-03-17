@@ -1,6 +1,6 @@
-// 폰켓몬 https://programmers.co.kr/skill_checks/108343
-// 길이 N의 배열의 서로 다른 요소들의 조합의 개수를 n/2와 같거나 작은 값 중 최대의 값으로 구성할 수 있는 방법의 개수를 반환하시오.
-
+/* 폰켓몬 https://programmers.co.kr/skill_checks/108343
+   길이 N의 배열의 서로 다른 요소들의 조합의 개수를 n/2와 같거나 작은 값 중 최대의 값으로 구성할 수 있는 방법의 개수를 반환하시오.
+*/
 import java.util.ArrayList;
 import java.util.Arrays;
 

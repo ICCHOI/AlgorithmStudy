@@ -1,6 +1,6 @@
-// 핸드폰 번호 가리기 https://programmers.co.kr/learn/courses/30/lessons/12948
-// 고객의 전화번호를 문자열 입력값으로 받아 뒷자리 4자리를 제외한 나머지를 *로 바꿈
-
+/* 핸드폰 번호 가리기 https://programmers.co.kr/learn/courses/30/lessons/12948
+   고객의 전화번호를 문자열 입력값으로 받아 뒷자리 4자리를 제외한 나머지를 *로 바꿈
+*/
 class ProtectPhoneNum {
     public String solution(String phone_number) {
 

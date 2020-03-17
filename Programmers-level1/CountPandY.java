@@ -1,6 +1,6 @@
-// 문자열 내 p와 y의 개수 https://programmers.co.kr/learn/courses/30/lessons/12916
-// 문자열 안의 대소문자의 구분이 없는 P와 Y의 개수를 세어 개수가 같거나 없으면 True, 다르면 false를 반환하시오.
-
+/* 문자열 내 p와 y의 개수 https://programmers.co.kr/learn/courses/30/lessons/12916
+   문자열 안의 대소문자의 구분이 없는 P와 Y의 개수를 세어 개수가 같거나 없으면 True, 다르면 false를 반환하시오.
+*/
 class CountPandY {
     boolean solution(String s) {
         boolean answer = true;

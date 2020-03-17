@@ -1,6 +1,6 @@
-// 수박수박수박수박수박수? https://programmers.co.kr/learn/courses/30/lessons/12922
-// n의 값에 따라 "수박수박수.."와 같은 패턴을 유지하는 문자열을 반환하시오.
-
+/* 수박수박수박수박수박수? https://programmers.co.kr/learn/courses/30/lessons/12922
+   n의 값에 따라 "수박수박수.."와 같은 패턴을 유지하는 문자열을 반환하시오.
+*/
 class Subak {
     public String solution(int n) {
         char su = '수';

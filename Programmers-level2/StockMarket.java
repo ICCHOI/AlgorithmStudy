@@ -1,4 +1,6 @@
-import java.util.Arrays;
+/* 주식시장 https://programmers.co.kr/learn/courses/30/lessons/42584
+   정수 배열을 입력으로 받아 배열 index의 값이 내려가는 구간까지의 길이를 담은 배열을 반환하시오.
+*/
 
 class StockMarket {
     public int[] solution(int[] prices) {
