@@ -3,7 +3,6 @@
    오름차순 정렬 된 Array로 반환하시오. 단, 해당되는 수가 없으면 [-1]을 반환
 */
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 class DivisorAble {
@@ -24,12 +23,12 @@ class DivisorAble {
     }
 }
 
-class Main{
-    public static void main(String[] args) {
-        DivisorAble divsor = new DivisorAble();
-        int[] arr = {3, 2, 6};
-        int divisor = 10;
-
-        System.out.println(Arrays.toString(divsor.solution(arr,divisor)));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        DivisorAble divsor = new DivisorAble();
+//        int[] arr = {3, 2, 6};
+//        int divisor = 10;
+//
+//        System.out.println(Arrays.toString(divsor.solution(arr,divisor)));
+//    }
+//}
