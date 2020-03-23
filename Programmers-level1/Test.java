@@ -2,9 +2,6 @@
    1번, 2번, 3번 케이스의 패턴과 배열 answer를 비교하여 index가 같은 개수가 가장 많은
    케이스를 배열에 담아 반환하시오.
 */
-
-import java.util.Arrays;
-
 class Test {
     public int[] solution(int[] answers) {
         int[] result = {type1(answers), type2(answers), type3(answers)};
@@ -82,9 +79,9 @@ class Test {
     }
 }
 
-class Main{
-    public static void main(String[] args) {
-        Test test = new Test();
-        System.out.println(Arrays.toString(test.solution(new int[]{1, 3, 2, 4, 2})));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        Test test = new Test();
+//        System.out.println(Arrays.toString(test.solution(new int[]{1, 3, 2, 4, 2})));
+//    }
+//}
