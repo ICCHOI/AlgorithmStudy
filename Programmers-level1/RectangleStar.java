@@ -1,3 +1,6 @@
+/* 직사각형 별 찍기 https://programmers.co.kr/learn/courses/30/lessons/12969
+   입력받은 문자 중 첫 번째를 가로 길이로, 두 번째를 세로 길이로 하는 직사각형 '*'를 출력하시오.
+*/
 import java.io.*;
 import java.util.StringTokenizer;
 
