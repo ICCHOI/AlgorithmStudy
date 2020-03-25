@@ -24,9 +24,9 @@ class Password {
     }
 }
 
-class Main{
-    public static void main(String[] args) {
-        Password password = new Password();
-        System.out.println(password.solution("a Z z",25));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        Password password = new Password();
+//        System.out.println(password.solution("a Z z",25));
+//    }
+//}
