@@ -1,3 +1,6 @@
+/* 최대공약수와 최소공배수 https://programmers.co.kr/learn/courses/30/lessons/12940
+   두 수를 입력받아 두 수의 최대공약수와 최소공배수를 배열에 담아 반환하시오.
+ */
 import java.util.Arrays;
 
 class GCDandLCM {
@@ -31,10 +34,10 @@ class GCDandLCM {
     }
 }
 
-class main{
-    public static void main(String[] args) {
-        GCDandLCM find = new GCDandLCM();
-        System.out.println(1071%1029);
-        System.out.println(Arrays.toString(find.solution(1071,1029)));
-    }
-}
+//class main{
+//    public static void main(String[] args) {
+//        GCDandLCM find = new GCDandLCM();
+//        System.out.println(1071%1029);
+//        System.out.println(Arrays.toString(find.solution(1071,1029)));
+//    }
+//}
