@@ -8,20 +8,17 @@ class AlphabetDescend {
 
         byte[] bytes = new byte[s.length()];
 
-        for(int i = 0; i<bytes.length; i++){
+        for(int i = 0; i<bytes.length; i++)
             bytes[i]=(byte)s.charAt(i);
-        }
 
         Arrays.sort(bytes);
 
         byte[] reverse = new byte[bytes.length];
 
-        for(int i = 0; i<bytes.length; i++){
-               reverse[i] = bytes[bytes.length-1-i];
-        }
+        for(int i = 0; i<bytes.length; i++)
+            reverse[i] = bytes[bytes.length-1-i];
 
-        String answer = new String(reverse);
-        return answer;
+        return new String(reverse);
     }
 }
 
