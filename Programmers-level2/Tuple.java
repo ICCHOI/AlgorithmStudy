@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-class Solution {
+class Tuple{
     public int[] solution(String s) {
         ArrayList<Integer> tuples = new ArrayList<>();
         int length = 0;
@@ -41,6 +41,6 @@ class Solution {
 
 //class Main {
 //    public static void main(String[] args) {
-//        System.out.println(Arrays.toString(new Solution().solution("{{2},{2,1},{2,1,3},{2,1,3,4}}")));
+//        System.out.println(Arrays.toString(new Tuple().solution("{{2},{2,1},{2,1,3},{2,1,3,4}}")));
 //    }
 //}
