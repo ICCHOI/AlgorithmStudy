@@ -36,8 +36,8 @@ public class GymSuit {
     }
 }
 
-class Main{
-    public static void main(String[] args) {
-        System.out.println(new GymSuit().solution(30, new int[]{30}, new int[]{24,25,28,29}));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        System.out.println(new GymSuit().solution(30, new int[]{30}, new int[]{24,25,28,29}));
+//    }
+//}
