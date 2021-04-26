@@ -5,7 +5,7 @@
 
 import java.util.Stack;
 
-public class ToyCrane {
+class ToyCrane {
     public static int solution(int[][] board, int[] moves) {
         int answer = 0;
 
