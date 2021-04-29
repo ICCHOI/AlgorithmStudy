@@ -20,9 +20,9 @@ class TernaryReverse {
     }
 }
 
-class Main{
-    public static void main(String[] args) {
-        TernaryReverse tr = new TernaryReverse();
-        System.out.println(tr.solution(125));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        TernaryReverse tr = new TernaryReverse();
+//        System.out.println(tr.solution(125));
+//    }
+//}
