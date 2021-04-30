@@ -25,9 +25,9 @@ class UnfinishedRunner {
     }
 }
 
-class Main{
-    public static void main(String[] args) {
-        UnfinishedRunner runner = new UnfinishedRunner();
-        System.out.println(runner.solution(new String[]{"mislav", "stanko", "mislav", "ana"}, new String[]{"stanko", "ana", "mislav"}));
-    }
-}
+//class Main{
+//    public static void main(String[] args) {
+//        UnfinishedRunner runner = new UnfinishedRunner();
+//        System.out.println(runner.solution(new String[]{"mislav", "stanko", "mislav", "ana"}, new String[]{"stanko", "ana", "mislav"}));
+//    }
+//}
