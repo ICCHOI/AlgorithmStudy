@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Programmers-level1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programmers-level2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Google-codejam-2020-QR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ICPC" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

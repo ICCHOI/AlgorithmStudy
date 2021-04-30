@@ -17,8 +17,7 @@ class Phoneketmon {
             if (i == nums.length-1) pkmNum.add(nums[i]);
         }
 
-        int answer = (take > pkmNum.size() ) ? pkmNum.size() : take;
-        return answer;
+        return Math.min(take, pkmNum.size());
     }
 }
 
