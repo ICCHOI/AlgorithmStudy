@@ -20,9 +20,9 @@ class Minimum {
     }
 }
 
-class Main {
-    public static void main(String[] args) {
-        Minimum solve = new Minimum();
-        System.out.println(solve.solution(new int[]{1, 2, 8}, new int[]{7, 6, 5}));
-    }
-}
+//class Main {
+//    public static void main(String[] args) {
+//        Minimum solve = new Minimum();
+//        System.out.println(solve.solution(new int[]{1, 2, 8}, new int[]{7, 6, 5}));
+//    }
+//}
