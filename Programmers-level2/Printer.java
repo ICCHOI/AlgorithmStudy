@@ -43,18 +43,13 @@ class Printer {
     }
 }
 
-class Print implements Comparable<Print> {
+class Print {
     int index;
     int priority;
 
     public Print(int index, int priority) {
         this.index = index;
         this.priority = priority;
-    }
-
-    @Override
-    public int compareTo(Print comp) {
-        return this.priority < comp.priority ? 1 : -1;
     }
 }
 
