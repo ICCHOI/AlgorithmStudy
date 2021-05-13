@@ -1,6 +1,7 @@
 /* 최댓값과 최솟값 https://programmers.co.kr/learn/courses/30/lessons/12939/
    문자열 s의 최솟값과 최댓값을 찾아 반환하시오.
  */
+
 import java.util.Arrays;
 
 class MaximumAndMinimum {
@@ -9,7 +10,7 @@ class MaximumAndMinimum {
 
         int[] answer = new int[tokens.length];
 
-        for(int i = 0; i<answer.length; i++){
+        for (int i = 0; i < answer.length; i++) {
             answer[i] = Integer.parseInt(tokens[i]);
         }
 
