@@ -4,18 +4,13 @@
 class DivisorCntSum {
     public int getCount(int div) {
         int count = 0;
-        for (int i = 1; i <= div; i++) {
-            if (div % i == 0) count += 1;
-        }
+        for (int i = 1; i <= div; i++) if (div % i == 0) count += 1;
         return count;
     }
 
     public int solution(int left, int right) {
         int answer = 0;
-        for (int i = left; i <= right; i++) {
-            if (getCount(i) % 2 == 0) answer += i;
-            else answer -= i;
-        }
+        for (int i = left; i <= right; i++) answer += (getCount(i) % 2 == 0) ? i : -i;
         return answer;
     }
 }
