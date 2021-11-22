@@ -1,5 +1,6 @@
-/* 이중 우선순위 큐
-
+/* 이중 우선순위 큐 https://www.acmicpc.net/problem/7662
+   큐에서 최댓값을 삭제하는 D 1, 최솟값을 삭제하는 D -1, 큐에 값을 삽입하는 I (N) 연산을 수행한 후 마지막에 큐에 값이 없으면 EMPTY
+   있으면 큐의 최댓값과 최솟값을 출력하시오.
 */
 import java.io.*;
 import java.util.*;
