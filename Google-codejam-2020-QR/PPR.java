@@ -30,7 +30,7 @@ public class PPR {
                 Integer ei = in.nextInt();
                 String e = String.format("%04d",ei);
 
-                value[j] = s + "/" + e + "#" + new String(String.format("%04d",j));
+                value[j] = s + "/" + e + "#" + String.format("%04d", j);
             }
 
             Arrays.sort(value);
@@ -45,7 +45,7 @@ public class PPR {
                 sort[j] = value[j].substring(value[j].indexOf("#")+1);
 
                 for (int k = s; k < e; k++) {
-                    if (cameron[k] == false) check++;
+                    if (!cameron[k]) check++;
                     else {
                         check = 0;
                         break;
@@ -59,7 +59,7 @@ public class PPR {
                     check = 0;
                 } else {
                     for (int k = s; k < e; k++) {
-                        if (jamie[k] == false) check++;
+                        if (!jamie[k]) check++;
                         else {
                             check = 0;
                             break;
@@ -76,13 +76,12 @@ public class PPR {
             }
             Arrays.sort(sort);
 
-            for(int j = 0; j<sort.length; j++){
-                if(sort[j] == "IMPOSSIBLE") {
+            for (String s : sort) {
+                if (s.equals("IMPOSSIBLE")) {
                     answer[i] = "IMPOSSIBLE";
                     break;
-                }
-                else if(sort[j].contains("C")) answer[i] = answer[i] + "C";
-                else if(sort[j].contains("J")) answer[i] = answer[i] + "J";
+                } else if (s.contains("C")) answer[i] = answer[i] + "C";
+                else if (s.contains("J")) answer[i] = answer[i] + "J";
             }
         }
         for (int i = 0; i < t; i++) {

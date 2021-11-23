@@ -19,7 +19,7 @@ public class Vestigium {
         for (int i = 0; i < t; i++) {
             int n = in.nextInt();
 
-            int temp[][] = new int[n][n];
+            int[][] temp = new int[n][n];
 
             for (int j = 0; j < n; j++) {
 
@@ -36,7 +36,7 @@ public class Vestigium {
                 boolean[] check = new boolean[n];
 
                 for (int k = 0; k < n; k++) {
-                    if (check[temp[j][k] - 1] == true) {
+                    if (check[temp[j][k] - 1]) {
                         answer[i][1]++;
                         break;
                     }
@@ -48,7 +48,7 @@ public class Vestigium {
                 boolean[] check = new boolean[n];
 
                 for (int k = 0; k < n; k++) {
-                    if (check[temp[k][j] - 1] == true) {
+                    if (check[temp[k][j] - 1]) {
                         answer[i][2]++;
                         break;
                     }
@@ -58,7 +58,7 @@ public class Vestigium {
         }
 
         for (int i = 0; i < t; i++) {
-            System.out.println("Case #" + (i+1) + ": " + String.valueOf(answer[i][0]) + " " + answer[i][1] + " " + answer[i][2]);
+            System.out.println("Case #" + (i+1) + ": " + answer[i][0] + " " + answer[i][1] + " " + answer[i][2]);
         }
     }
 }
