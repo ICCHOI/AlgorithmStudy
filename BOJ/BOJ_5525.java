@@ -11,7 +11,7 @@ class BOJ_5525{
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         int targetNum = Integer.parseInt(bufferedReader.readLine());
-        int length = Integer.parseInt(bufferedReader.readLine());
+        bufferedReader.readLine();
         String inputString = bufferedReader.readLine();
         int count = 0;
 
