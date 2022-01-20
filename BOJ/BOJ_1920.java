@@ -7,15 +7,19 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.StringTokenizer;
 
-class FindNumber {
+class BOJ_1920 {
+    static int stoi(String str){
+        return (Integer.parseInt(str));
+    }
+
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         HashSet<Integer> hashSet = new HashSet<>();
-        int num1 = Integer.parseInt(bf.readLine());
-        StringTokenizer stringTokenizer = new StringTokenizer(bf.readLine());
-        for (int i = 0; i < num1; i++) hashSet.add(Integer.parseInt(stringTokenizer.nextToken()));
-        int num2 = Integer.parseInt(bf.readLine());
+        int n = stoi(bf.readLine());
         StringTokenizer st = new StringTokenizer(bf.readLine());
-        for (int i = 0; i < num2; i++) System.out.println(hashSet.contains(Integer.parseInt(st.nextToken())) ? 1 : 0);
+        for (int i = 0; i < n; i++) hashSet.add(stoi(st.nextToken()));
+        int m = stoi(bf.readLine());
+        st = new StringTokenizer(bf.readLine());
+        for (int i = 0; i < m; i++) System.out.println(hashSet.contains(stoi(st.nextToken())) ? 1 : 0);
     }
 }
